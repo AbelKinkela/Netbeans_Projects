@@ -4,4 +4,5 @@ A set of challenges and learning activities developed throughout the year.
 This includes command line based programs such as the 
 ###### payrollsystem
 ###### textventuregame
-###### da
+###### an ADT system
+The ADT system introduces the DAOS Architecture Pattern which allows the isolation of application/business layer from the persistence layer
